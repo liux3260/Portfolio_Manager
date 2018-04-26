@@ -1,0 +1,24 @@
+c:\users\liu\documents\visual studio 2015\Projects\My Portfolio Manager\My Portfolio Manager\bin\Debug\My Portfolio Manager.exe.config
+c:\users\liu\documents\visual studio 2015\Projects\My Portfolio Manager\My Portfolio Manager\bin\Debug\My Portfolio Manager.exe
+c:\users\liu\documents\visual studio 2015\Projects\My Portfolio Manager\My Portfolio Manager\bin\Debug\My Portfolio Manager.pdb
+c:\users\liu\documents\visual studio 2015\Projects\My Portfolio Manager\My Portfolio Manager\obj\Debug\My Portfolio Manager.csprojResolveAssemblyReference.cache
+c:\users\liu\documents\visual studio 2015\Projects\My Portfolio Manager\My Portfolio Manager\obj\Debug\My_Portfolio_Manager.Properties.Resources.resources
+c:\users\liu\documents\visual studio 2015\Projects\My Portfolio Manager\My Portfolio Manager\obj\Debug\My Portfolio Manager.csproj.GenerateResource.Cache
+c:\users\liu\documents\visual studio 2015\Projects\My Portfolio Manager\My Portfolio Manager\obj\Debug\My Portfolio Manager.exe
+c:\users\liu\documents\visual studio 2015\Projects\My Portfolio Manager\My Portfolio Manager\obj\Debug\My Portfolio Manager.pdb
+C:\Users\Liu\Documents\Visual Studio 2015\Projects\My Portfolio Manager\My Portfolio Manager\bin\Debug\EntityFramework.dll
+C:\Users\Liu\Documents\Visual Studio 2015\Projects\My Portfolio Manager\My Portfolio Manager\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Liu\Documents\Visual Studio 2015\Projects\My Portfolio Manager\My Portfolio Manager\bin\Debug\EntityFramework.xml
+C:\Users\Liu\Documents\Visual Studio 2015\Projects\My Portfolio Manager\My Portfolio Manager\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Liu\Documents\Visual Studio 2015\Projects\My Portfolio Manager\My Portfolio Manager\obj\Debug\My_Portfolio_Manager.Mainform.resources
+C:\Users\Liu\Documents\Visual Studio 2015\Projects\My Portfolio Manager\My Portfolio Manager\obj\Debug\My_Portfolio_Manager.HistoricalPrice.resources
+C:\Users\Liu\Documents\Visual Studio 2015\Projects\My Portfolio Manager\My Portfolio Manager\obj\Debug\My_Portfolio_Manager.Instrument2.resources
+C:\Users\Liu\Documents\Visual Studio 2015\Projects\My Portfolio Manager\My Portfolio Manager\obj\Debug\My_Portfolio_Manager.InstrumentType.resources
+C:\Users\Liu\Documents\Visual Studio 2015\Projects\My Portfolio Manager\My Portfolio Manager\obj\Debug\My_Portfolio_Manager.IntrestRate.resources
+C:\Users\Liu\Documents\Visual Studio 2015\Projects\My Portfolio Manager\My Portfolio Manager\obj\Debug\My_Portfolio_Manager.Trade1.resources
+C:\Users\Liu\Documents\Visual Studio 2015\Projects\My Portfolio Manager\My Portfolio Manager\bin\Debug\5092-1 HW.exe
+C:\Users\Liu\Documents\Visual Studio 2015\Projects\My Portfolio Manager\My Portfolio Manager\bin\Debug\Infer.Runtime.dll
+C:\Users\Liu\Documents\Visual Studio 2015\Projects\My Portfolio Manager\My Portfolio Manager\bin\Debug\5092-1 HW.pdb
+C:\Users\Liu\Documents\Visual Studio 2015\Projects\My Portfolio Manager\My Portfolio Manager\bin\Debug\Infer.Runtime.pdb
+C:\Users\Liu\Documents\Visual Studio 2015\Projects\My Portfolio Manager\My Portfolio Manager\bin\Debug\Infer.Runtime.xml
+C:\Users\Liu\Documents\Visual Studio 2015\Projects\My Portfolio Manager\My Portfolio Manager\obj\Debug\My_Portfolio_Manager.PriceAnalysis.resources
